@@ -1,0 +1,30 @@
+{
+    "status": true,
+    "pesan": "Data lokasi berhasil dimuat",
+    "data": [
+        {
+            "id_lokasi": "2",
+            "nama": "TB. Berkah Abadi Ban (edit)",
+            "tipe": "Motor & Mobil",
+            "jenis": "tubles & Non Tubles",
+            "telpon": "089673116422",
+            "alamat": "Jl. Slamet Riyadi No. 305",
+            "jam_buka": "09:00:00",
+            "jam_tutup": "22:00:00",
+            "latitude": "0",
+            "longitude": "0"
+        },
+		{
+            "id_lokasi": "3",
+            "nama": "TB. Anugrah Ban",
+            "tipe": "Motor & Mobil",
+            "jenis": "tubles & Non Tubles",
+            "telpon": "08567887923",
+            "alamat": "Jl. Slamet Riyadi No. 215",
+            "jam_buka": "09:00:00",
+            "jam_tutup": "22:00:00",
+            "latitude": "0",
+            "longitude": "0"
+        }
+    ]
+}
